@@ -8,6 +8,8 @@ https://github.com/openstack/openstack
 
 https://github.com/kubernetes/kubernetes
 
+https://github.com/minio/minio
+
 https://github.com/home-assistant/core
 
 

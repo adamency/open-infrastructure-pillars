@@ -10,13 +10,13 @@ https://github.com/kubernetes/kubernetes
 
 https://github.com/minio/minio
 
-https://github.com/home-assistant/core
-
+&nbsp;
 
 https://github.com/opentofu/opentofu
 
 https://github.com/ansible/ansible
 
+&nbsp;
 
 https://github.com/orgs/open-telemetry
 
@@ -26,3 +26,6 @@ https://github.com/grafana/grafana
 
 https://github.com/elastic/elasticsearch
 
+&nbsp;
+
+https://github.com/home-assistant/core
